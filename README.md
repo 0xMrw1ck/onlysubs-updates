@@ -12,6 +12,6 @@ onlysubs checks this repository for a newer version when the installed app start
 
 ## Support and security
 
-The core editor is free. GitHub Sponsors for WickWorks is pending verification. Report a suspected security issue privately to `jakenftwick@gmail.com`; do not post exploit details, private footage, passwords, or tokens in a public issue.
+The core editor is free. GitHub Sponsors for WickWorks is pending verification. Report a suspected security issue privately to `hello@wickworks.app`; do not post exploit details, private footage, passwords, or tokens in a public issue.
 
 Project site: [onlysubs.wickworks.app](https://onlysubs.wickworks.app/)
